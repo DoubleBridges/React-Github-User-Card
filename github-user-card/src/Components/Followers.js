@@ -4,6 +4,7 @@ import styled from 'styled-components'
 
 const FollowersContainer = styled.section`
   width: 800px;
+  margin-left: 100px;
 `;
 
 const Followers = (props) => {
